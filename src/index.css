@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  @apply bg-background text-gray-900 font-sans min-h-screen;
+}
+
+.keyboard-key {
+  @apply w-10 h-12 rounded bg-key-bg text-key-text font-sans font-semibold flex items-center justify-center text-sm transition-colors hover:bg-key-bg-hover;
+}
+
+.keyboard-key-wide {
+  @apply h-12 px-3 rounded font-sans font-semibold flex items-center justify-center text-sm transition-colors;
+}
