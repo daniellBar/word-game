@@ -1,6 +1,6 @@
 # Word game
 
-## The app is deployed here: https://word-game-1g9xgeudn-daniellbars-projects.vercel.app/
+## The app is deployed here: https://word-game-coral.vercel.app/
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
